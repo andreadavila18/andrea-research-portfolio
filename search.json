@@ -7,6 +7,41 @@
     "text": "Coming soon."
   },
   {
+    "objectID": "projects/collective-action.html",
+    "href": "projects/collective-action.html",
+    "title": "Collective Action and Peacebuilding in Rural Colombia",
+    "section": "",
+    "text": "My doctoral dissertation explores how peasant associations and agricultural cooperatives contribute to violence prevention and peacebuilding in rural Colombia. I use a mixed-methods approach combining municipal-level data with testimonies and a regional case study of Sur del Tolima.\nThe work is grounded in the agrarian question and theories of collective action and civilian agency.\nKeywords: collective action, peacebuilding, cooperatives, Colombia, conflict, rural development"
+  },
+  {
+    "objectID": "projects/collective-action.html#overview",
+    "href": "projects/collective-action.html#overview",
+    "title": "Collective Action and Peacebuilding in Rural Colombia",
+    "section": "",
+    "text": "My doctoral dissertation explores how peasant associations and agricultural cooperatives contribute to violence prevention and peacebuilding in rural Colombia. I use a mixed-methods approach combining municipal-level data with testimonies and a regional case study of Sur del Tolima.\nThe work is grounded in the agrarian question and theories of collective action and civilian agency.\nKeywords: collective action, peacebuilding, cooperatives, Colombia, conflict, rural development"
+  },
+  {
+    "objectID": "projects/collective-action.html#methods",
+    "href": "projects/collective-action.html#methods",
+    "title": "Collective Action and Peacebuilding in Rural Colombia",
+    "section": "Methods",
+    "text": "Methods\n\nQuantitative analysis (2016–2022):\n\nUnit of analysis: municipality-year\n\nFocus on PDET vs. non-PDET municipalities\n\nDependent variable: violence (victimization rate)\nIndependent variable: agricultural cooperative membership rate, peasants associations rates\nControls: socioeconomic factors, municipal capacity, armed actor presence\n\nQualitative analysis:\n\n16 testimonies from the Colombian Truth Commission\n\nRegional case study: Sur del Tolima\n\nReflexive thematic analysis: strategic noncooperation, social cohesion, economic alternatives"
+  },
+  {
+    "objectID": "projects/collective-action.html#key-findings",
+    "href": "projects/collective-action.html#key-findings",
+    "title": "Collective Action and Peacebuilding in Rural Colombia",
+    "section": "Key Findings",
+    "text": "Key Findings\n\n📉 Negative correlation between cooperative membership and violence in conflict-affected zones\n🧱 Peasant associations build local capacity to resist armed actors\n🌱 Cooperatives serve as economic peacebuilding platforms\n🧑‍🤝‍🧑 Social cohesion and trust are essential for local resilience"
+  },
+  {
+    "objectID": "projects/collective-action.html#selected-visualizations",
+    "href": "projects/collective-action.html#selected-visualizations",
+    "title": "Collective Action and Peacebuilding in Rural Colombia",
+    "section": "Selected Visualizations",
+    "text": "Selected Visualizations\n\nAssociation Membership and Violence (2016–2022)"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -19,5 +54,19 @@
     "title": "Andrea Dávila Saad",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n🧠 Researcher | Data Analyst | Peacebuilding Practitioner\nI am a political scientist and mixed-methods researcher focused on understanding how violence, institutional trust, and collective action evolve in conflict-affected contexts—especially in rural Colombia. My work brings together spatial analysis, survey data, and qualitative research to unpack complex political and social phenomena and inform policy and practice.\nMy doctoral dissertation examines how agricultural cooperatives and peasant associations contribute to violence prevention and peacebuilding in Colombia’s PDET municipalities. Grounded in theories of civilian agency and the social and solidarity economy, I use municipal-level quantitative data and thematic analysis of testimonies to reveal how bottom-up economic initiatives shape community resilience.\nBut this interest in understanding conflict from below did not begin with my PhD.\nEarly in my research career, I authored La Violencia en el Magdalena Medio: Análisis de la Dinámica Espacial (Uniandes, 2010), a book that used spatial and quantitative methods to analyze how organized armed groups strategically shaped the geography of violence. That work demonstrated a close relationship between the presence of armed actors and shifts in local violence, challenging simplistic narratives that framed violence as random or purely “everyday.”\nSince then, I have expanded my methodological toolkit to include: - Quasi-experimental designs - Index construction and mixed indicators - Reflexive thematic analysis - Natural Language Processing (NLP) for event text mining\nMy guiding question remains: how can data—both numerical and narrative—help us understand conflict and build more just and peaceful societies?\n\n\n\n💼 Consultancy & Applied Research\nAlongside academic research, I work as a consultant designing and analyzing data-driven peacebuilding tools.\nAt Fundación Ideas para la Paz (FIP), I have led and contributed to several projects focused on the intersection of business, trust, and peacebuilding, including:\n\n“Empresarios y Paz” (2021–2023): A comparative analysis of how Colombian companies perceive and engage with ex-combatants, migrants, and victims.\n“Confianza Territorial”: Mixed-method tools to evaluate trust and institutional performance at the local level.\n“Gestión frente a Alertas Tempranas”: Indicator development to assess government responses to conflict risk and prevention.\n📖 See also: “Medir con enfoque mixto mejora la construcción de paz”\n\nI am especially interested in bridging the gap between quantitative rigor and qualitative depth through hybrid measurement tools.\n\n\n\n📂 Projects & Interests\nMy current portfolio includes:\n\nCooperatives and Peacebuilding\nMunicipal-level statistical analysis + thematic testimony coding on economic alternatives in Sur del Tolima\nACLED Conflict Trends\nNLP-based analysis of violence reports in Latin America (2018–2024), using tokenization and word frequencies\nBusiness and Inclusion\nAnalysis of employer attitudes in Colombia toward hiring vulnerable populations (survey data 2021 & 2023)\n\n\n\n\n🧭 Practitioner & Legacy\nI co-founded MAPEA, a consulting and research initiative I built with my father, whose legacy continues to shape my professional path. MAPEA supports institutions working on reintegration, rural development, and post-conflict recovery. Our mission is rooted in meaningful, evidence-based contributions to peacebuilding and territorial governance.\n\n\n\n📬 Contact\n\n📧 Email: [andrea.davila.saad2019@gmail.com]\n\n💼 LinkedIn\n\n📄 CV (PDF)"
+  },
+  {
+    "objectID": "projects/victimization.html",
+    "href": "projects/victimization.html",
+    "title": "Victimization Rates Over Time",
+    "section": "",
+    "text": "This plot shows the average rate of victims per 10,000 inhabitants by year, comparing PDET municipalities to the rest of the country."
+  },
+  {
+    "objectID": "projects/victimization.html#visualizing-victimization-rates",
+    "href": "projects/victimization.html#visualizing-victimization-rates",
+    "title": "Victimization Rates Over Time",
+    "section": "",
+    "text": "This plot shows the average rate of victims per 10,000 inhabitants by year, comparing PDET municipalities to the rest of the country."
   }
 ]
