@@ -42,18 +42,46 @@
     "text": "Selected Visualizations\n\nAssociation Membership and Violence (2016–2022)"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Andrea Dávila Saad",
+    "title": "Andrea Dávila Saad – Research Portfolio",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n🧠 Researcher | Data Analyst | Peacebuilding Practitioner\nI am a political scientist and mixed-methods researcher focused on understanding how violence, institutional trust, and collective action evolve in conflict-affected contexts—especially in rural Colombia. My work brings together spatial analysis, survey data, and qualitative research to unpack complex political and social phenomena and inform policy and practice.\nMy doctoral dissertation examines how agricultural cooperatives and peasant associations contribute to violence prevention and peacebuilding in Colombia’s PDET municipalities. Grounded in theories of civilian agency and the social and solidarity economy, I use municipal-level quantitative data and thematic analysis of testimonies to reveal how bottom-up economic initiatives shape community resilience.\nBut this interest in understanding conflict from below did not begin with my PhD.\nEarly in my research career, I authored La Violencia en el Magdalena Medio: Análisis de la Dinámica Espacial (Uniandes, 2010), a book that used spatial and quantitative methods to analyze how organized armed groups strategically shaped the geography of violence. That work demonstrated a close relationship between the presence of armed actors and shifts in local violence, challenging simplistic narratives that framed violence as random or purely “everyday.”\nSince then, I have expanded my methodological toolkit to include: - Quasi-experimental designs - Index construction and mixed indicators - Reflexive thematic analysis - Natural Language Processing (NLP) for event text mining\nMy guiding question remains: how can data—both numerical and narrative—help us understand conflict and build more just and peaceful societies?\n\n\n\n💼 Consultancy & Applied Research\nAlongside academic research, I work as a consultant designing and analyzing data-driven peacebuilding tools.\nAt Fundación Ideas para la Paz (FIP), I have led and contributed to several projects focused on the intersection of business, trust, and peacebuilding, including:\n\n“Empresarios y Paz” (2021–2023): A comparative analysis of how Colombian companies perceive and engage with ex-combatants, migrants, and victims.\n“Confianza Territorial”: Mixed-method tools to evaluate trust and institutional performance at the local level.\n“Gestión frente a Alertas Tempranas”: Indicator development to assess government responses to conflict risk and prevention.\n📖 See also: “Medir con enfoque mixto mejora la construcción de paz”\n\nI am especially interested in bridging the gap between quantitative rigor and qualitative depth through hybrid measurement tools.\n\n\n\n📂 Projects & Interests\nMy current portfolio includes:\n\nCooperatives and Peacebuilding\nMunicipal-level statistical analysis + thematic testimony coding on economic alternatives in Sur del Tolima\nACLED Conflict Trends\nNLP-based analysis of violence reports in Latin America (2018–2024), using tokenization and word frequencies\nBusiness and Inclusion\nAnalysis of employer attitudes in Colombia toward hiring vulnerable populations (survey data 2021 & 2023)\n\n\n\n\n🧭 Practitioner & Legacy\nI co-founded MAPEA, a consulting and research initiative I built with my father, whose legacy continues to shape my professional path. MAPEA supports institutions working on reintegration, rural development, and post-conflict recovery. Our mission is rooted in meaningful, evidence-based contributions to peacebuilding and territorial governance.\n\n\n\n📬 Contact\n\n📧 Email: [andrea.davila.saad2019@gmail.com]\n\n💼 LinkedIn\n\n📄 CV (PDF)"
+    "text": "Welcome to my portfolio. I am a data-oriented political scientist with expertise in quantitative and mixed-methods research applied to conflict studies, institutional trust, and inclusive development. My work is grounded in the belief that rigorous, context-sensitive data analysis is essential to understanding and addressing complex social problems.\n\n\n\nI specialize in designing and implementing research strategies that bridge quantitative rigor with qualitative insight. My doctoral dissertation at Virginia Tech analyzed how agricultural cooperatives and peasant associations contribute to violence prevention and peacebuilding in Colombia’s rural municipalities.\nCore methodologies I use include:\n\n🧮 Multivariate and multilevel regression models\n\n⚖️ Quasi-experimental and observational designs\n\n🧠 Reflexive thematic analysis\n\n🗺️ Spatial data visualization (GIS)\n\n🧾 Survey design and data cleaning\n\n🧠 Natural Language Processing (NLP) for text-based event data\n\nThis skillset allows me to navigate between macro-level datasets (e.g., municipal indicators, ACLED, DANE, UARIV) and micro-level qualitative material (e.g., interviews, testimonies), producing integrated insights for both academic and applied audiences.\n\n\n\n\n\n🔗 Cooperatives and Peacebuilding\nMixed-methods statistical and thematic analysis of violence and economic alternatives in Sur del Tolima, Colombia\n🔍 Conflict Trends with ACLED\nNLP and data mining of Latin American conflict narratives (2018–2024)\n📈 Business and Social Inclusion\nSurvey-based study of employer attitudes toward ex-combatants, migrants, and victims in Colombia (2021–2023)\n\nEach project combines data cleaning, statistical modeling, and effective communication of results through visualizations and policy-relevant narratives.\n\n\n\n\nBeyond academia, I support NGOs and institutions in translating data into actionable insights.\nAt Fundación Ideas para la Paz (FIP), I’ve led and supported multi-stakeholder evaluations and tool development, including:\n\n📊 Trust and institutional performance indices at the municipal level\n\n🧾 Mixed-method diagnostics for early warning response\n\n📉 Surveys measuring employer engagement with peace-related hiring policies\n\n📰 See also: “Medir con enfoque mixto mejora la construcción de paz”\nI prioritize transparent documentation, replicable analysis, and ethical use of sensitive data.\n\n\n\n\nI co-founded MAPEA, a research initiative dedicated to applied social analysis in post-conflict and development settings. Through MAPEA, I’ve designed tools, evaluated public programs, and contributed to policy debates around land, reintegration, and territorial governance.\n\n\n\n\n\n📧 Email: andrea.davila.saad2019@gmail.com\n\n💼 LinkedIn\n\n📄 Download CV (PDF)"
+  },
+  {
+    "objectID": "index.html#research-and-analytical-focus",
+    "href": "index.html#research-and-analytical-focus",
+    "title": "Andrea Dávila Saad – Research Portfolio",
+    "section": "",
+    "text": "I specialize in designing and implementing research strategies that bridge quantitative rigor with qualitative insight. My doctoral dissertation at Virginia Tech analyzed how agricultural cooperatives and peasant associations contribute to violence prevention and peacebuilding in Colombia’s rural municipalities.\nCore methodologies I use include:\n\n🧮 Multivariate and multilevel regression models\n\n⚖️ Quasi-experimental and observational designs\n\n🧠 Reflexive thematic analysis\n\n🗺️ Spatial data visualization (GIS)\n\n🧾 Survey design and data cleaning\n\n🧠 Natural Language Processing (NLP) for text-based event data\n\nThis skillset allows me to navigate between macro-level datasets (e.g., municipal indicators, ACLED, DANE, UARIV) and micro-level qualitative material (e.g., interviews, testimonies), producing integrated insights for both academic and applied audiences."
+  },
+  {
+    "objectID": "index.html#recent-and-ongoing-projects",
+    "href": "index.html#recent-and-ongoing-projects",
+    "title": "Andrea Dávila Saad – Research Portfolio",
+    "section": "",
+    "text": "🔗 Cooperatives and Peacebuilding\nMixed-methods statistical and thematic analysis of violence and economic alternatives in Sur del Tolima, Colombia\n🔍 Conflict Trends with ACLED\nNLP and data mining of Latin American conflict narratives (2018–2024)\n📈 Business and Social Inclusion\nSurvey-based study of employer attitudes toward ex-combatants, migrants, and victims in Colombia (2021–2023)\n\nEach project combines data cleaning, statistical modeling, and effective communication of results through visualizations and policy-relevant narratives."
+  },
+  {
+    "objectID": "index.html#applied-research-consultancy",
+    "href": "index.html#applied-research-consultancy",
+    "title": "Andrea Dávila Saad – Research Portfolio",
+    "section": "",
+    "text": "Beyond academia, I support NGOs and institutions in translating data into actionable insights.\nAt Fundación Ideas para la Paz (FIP), I’ve led and supported multi-stakeholder evaluations and tool development, including:\n\n📊 Trust and institutional performance indices at the municipal level\n\n🧾 Mixed-method diagnostics for early warning response\n\n📉 Surveys measuring employer engagement with peace-related hiring policies\n\n📰 See also: “Medir con enfoque mixto mejora la construcción de paz”\nI prioritize transparent documentation, replicable analysis, and ethical use of sensitive data."
+  },
+  {
+    "objectID": "index.html#practitioner-legacy",
+    "href": "index.html#practitioner-legacy",
+    "title": "Andrea Dávila Saad – Research Portfolio",
+    "section": "",
+    "text": "I co-founded MAPEA, a research initiative dedicated to applied social analysis in post-conflict and development settings. Through MAPEA, I’ve designed tools, evaluated public programs, and contributed to policy debates around land, reintegration, and territorial governance."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Andrea Dávila Saad – Research Portfolio",
+    "section": "",
+    "text": "📧 Email: andrea.davila.saad2019@gmail.com\n\n💼 LinkedIn\n\n📄 Download CV (PDF)"
   },
   {
     "objectID": "projects/victimization.html",
