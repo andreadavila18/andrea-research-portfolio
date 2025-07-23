@@ -1,75 +1,69 @@
 ---
-title: "Andrea’s Research Portfolio"
----
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
----
-title: "Andrea Dávila Saad"
+title: "Andrea Dávila Saad – Research Portfolio"
 format: html
 page-layout: full
 ---
 
-# 🧠 Researcher \| Data Analyst \| Peacebuilding Practitioner
+# 📊 Data Analyst | Political Scientist | Applied Researcher
 
-I am a political scientist and mixed-methods researcher focused on understanding how violence, institutional trust, and collective action evolve in conflict-affected contexts—especially in rural Colombia. My work brings together spatial analysis, survey data, and qualitative research to unpack complex political and social phenomena and inform policy and practice.
+Welcome to my portfolio. I am a data-oriented political scientist with expertise in **quantitative and mixed-methods research** applied to conflict studies, institutional trust, and inclusive development. My work is grounded in the belief that rigorous, context-sensitive data analysis is essential to understanding and addressing complex social problems.
 
-My doctoral dissertation examines how **agricultural cooperatives and peasant associations contribute to violence prevention and peacebuilding** in Colombia’s PDET municipalities. Grounded in theories of civilian agency and the social and solidarity economy, I use municipal-level quantitative data and thematic analysis of testimonies to reveal how bottom-up economic initiatives shape community resilience.
+---
 
-But this interest in understanding conflict from below did not begin with my PhD.
+## 🧠 Research and Analytical Focus
 
-Early in my research career, I authored *La Violencia en el Magdalena Medio: Análisis de la Dinámica Espacial* (Uniandes, 2010), a book that used **spatial and quantitative methods** to analyze how organized armed groups strategically shaped the geography of violence. That work demonstrated a close relationship between the presence of armed actors and shifts in local violence, challenging simplistic narratives that framed violence as random or purely “everyday.”
+I specialize in designing and implementing research strategies that bridge **quantitative rigor** with **qualitative insight**. My doctoral dissertation at Virginia Tech analyzed how **agricultural cooperatives and peasant associations contribute to violence prevention and peacebuilding** in Colombia’s rural municipalities.
 
-Since then, I have expanded my methodological toolkit to include: - Quasi-experimental designs - Index construction and mixed indicators - Reflexive thematic analysis - Natural Language Processing (NLP) for event text mining
+**Core methodologies I use include:**
 
-My guiding question remains: **how can data—both numerical and narrative—help us understand conflict and build more just and peaceful societies?**
+- 🧮 Multivariate and multilevel regression models  
+- ⚖️ Quasi-experimental and observational designs  
+- 🧠 Reflexive thematic analysis  
+- 🗺️ Spatial data visualization (GIS)  
+- 🧾 Survey design and data cleaning  
 
-------------------------------------------------------------------------
 
-# 💼 Consultancy & Applied Research
+This skillset allows me to navigate between **macro-level datasets** (e.g., municipal indicators, ACLED, DANE, UARIV) and **micro-level qualitative material** (e.g., interviews, testimonies), producing integrated insights for both academic and applied audiences.
 
-Alongside academic research, I work as a consultant designing and analyzing data-driven peacebuilding tools.
+---
 
-At **Fundación Ideas para la Paz (FIP)**, I have led and contributed to several projects focused on the intersection of **business, trust, and peacebuilding**, including:
+ ## 🔬 Recent and Ongoing Projects
 
--   **"Empresarios y Paz" (2021–2023)**: A comparative analysis of how Colombian companies perceive and engage with ex-combatants, migrants, and victims.
--   **"Confianza Territorial"**: Mixed-method tools to evaluate trust and institutional performance at the local level.
--   **"Gestión frente a Alertas Tempranas"**: Indicator development to assess government responses to conflict risk and prevention.
--   📖 *See also:* ["Medir con enfoque mixto mejora la construcción de paz"](https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/medir-con-enfoque-mixto-mejora-la-construccion-de-paz/)
+- 🔗 [**Collective Action and Peacebuilding**](projects/collective-action.qmd)  
+  Mixed-methods statistical and thematic analysis of violence and economic alternatives in Colombia
 
-I am especially interested in bridging the gap between quantitative rigor and qualitative depth through hybrid measurement tools.
+- 📈 [**Business and Social Inclusion**](projects/business.qmd)  
+  Survey-based study of employer attitudes toward ex-combatants, migrants, and victims in Colombia (2021–2023)
 
-------------------------------------------------------------------------
+- 📊 [**Quantitative Results – BE Model**](projects/quant_results.html)  
+  Panel regression results on cooperative membership and conflict-related victimization (2016–2022)
 
-# 📂 Projects & Interests
+---
 
-My current portfolio includes:
+## 🏛️ Applied Research & Consultancy
 
--   [**Cooperatives and Peacebuilding**](projects/cooperatives.qmd)\
-    Municipal-level statistical analysis + thematic testimony coding on economic alternatives in Sur del Tolima
+Beyond academia, I support NGOs and institutions in translating data into actionable insights.
 
--   [**ACLED Conflict Trends**](projects/acled.qmd)\
-    NLP-based analysis of violence reports in Latin America (2018–2024), using tokenization and word frequencies
+At **Fundación Ideas para la Paz (FIP)**, I’ve led and supported multi-stakeholder evaluations and tool development, including:
 
--   [**Business and Inclusion**](projects/business.qmd)\
-    Analysis of employer attitudes in Colombia toward hiring vulnerable populations (survey data 2021 & 2023)
+- 📊 Trust and institutional performance indices at the municipal level  
+- 🧾 Mixed-method diagnostics for early warning response  
+- 📉 Surveys measuring employer engagement with peace-related hiring policies
 
-------------------------------------------------------------------------
+📰 *See also:* ["Medir con enfoque mixto mejora la construcción de paz"](https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/medir-con-enfoque-mixto-mejora-la-construccion-de-paz/)
 
-# 🧭 Practitioner & Legacy
+I prioritize **transparent documentation**, **replicable analysis**, and **ethical use of sensitive data**.
 
-I co-founded **MAPEA**, a consulting and research initiative I built with my father, whose legacy continues to shape my professional path. MAPEA supports institutions working on reintegration, rural development, and post-conflict recovery. Our mission is rooted in meaningful, evidence-based contributions to peacebuilding and territorial governance.
+---
 
-------------------------------------------------------------------------
+## 🧭 Practitioner Legacy
 
-# 📬 Contact
+I co-founded **MAPEA**, a research initiative dedicated to applied social analysis in post-conflict and development settings. Through MAPEA, I’ve designed tools, evaluated public programs, and contributed to policy debates around land, reintegration, and territorial governance.
 
--   📧 Email: \[andrea.davila.saad2019\@gmail.com\]\
--   💼 [LinkedIn](https://linkedin.com/in/yourprofile)\
--   📄 [CV (PDF)](CV_AndreaDavilaSaad.pdf)
+---
+
+## 📬 Contact
+
+- 📧 Email: andrea.davila.saad2019@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 📄 [Download CV (PDF)](CV_AndreaDavilaSaad.pdf)
